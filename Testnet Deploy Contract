@@ -1,0 +1,52 @@
+Base L2 Testnet | Early Builder NFT✨ 
+
+1) Bridge ETH
+➖ Before start deploying, need some coins for gas fee. 
+➖ This time we are working on Base Testnet , so we will need Base Goerli.
+➖ Bridge ETH Goerli -> ETH Base Goerli : 
+➖ https://bridge.base.org/deposit
+
+2) Deploy Smart Contract via PC
+➖ Open: https://docs.openzeppelin.com/contracts/4.x/wizard
+➖ Choose ERC721, Insert name & token symbol
+➖ Go to: https://remix.ethereum.org/
+➖ Create New File with "YourToken.sol"
+➖ Paste Smart Contract 
+➖ Go to Solidity Compiler -> Compile "YourToken.sol"
+➖ Deploy and Run Transaction
+➖ Open Transaction Link, Copy your Smart Contract.
+
+3) Deploy Smart Contract Via Mobile (apetimism & thirdweb)
+➡️ Go to : https://apetimism.com
+➖ Select Launchpad
+➖ Click Launch NFT Project Now
+➖ Create New Project
+➖ Fill Details
+➖ Select Chain Base Testnet
+➖ Select Smart Contract
+➖ Fill Details
+➖ Save & Deploy
+➖ Confirm Tx
+➖ Check Your Address https://goerli.basescan.org
+➖ Check Transactions With Apetismnft & Copy Contract
+➖ Paste To Base Quest
+➖ Verify & Done
+
+➡️ Go to : https://thirdweb.com
+➖ Select Contract
+➖ Deploy Contract
+➖ Click Token
+➖ Deploy Now
+➖ Fill Details > Select Base Georli Network
+➖ Deploy Now
+➖ Approve & Signin
+➖ Wait 1-5 Minutes
+➖ Back To https://thirdweb.com/dashboard/contracts
+➖ Check Smart Contract & Done
+
+EXTRA
+📑 Mint Early Builder NFT on Base:
+➖ Go to: https://quests.base.org/quest
+➖ Connect wallet & start quest
+➖ Paste your Smart Contract
+➖ Mint your NFT
